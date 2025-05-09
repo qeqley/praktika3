@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/reactkino/static/css/main.4b70186f.css",
-    "main.js": "/reactkino/static/js/main.ee5fd5b3.js",
-    "index.html": "/reactkino/index.html",
-    "main.4b70186f.css.map": "/reactkino/static/css/main.4b70186f.css.map",
-    "main.ee5fd5b3.js.map": "/reactkino/static/js/main.ee5fd5b3.js.map"
+    "main.css": "/praktika3/static/css/main.9f8b5d89.css",
+    "main.js": "/praktika3/static/js/main.cce1509d.js",
+    "index.html": "/praktika3/index.html",
+    "main.9f8b5d89.css.map": "/praktika3/static/css/main.9f8b5d89.css.map",
+    "main.cce1509d.js.map": "/praktika3/static/js/main.cce1509d.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b70186f.css",
-    "static/js/main.ee5fd5b3.js"
+    "static/css/main.9f8b5d89.css",
+    "static/js/main.cce1509d.js"
   ]
 }
