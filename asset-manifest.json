@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactkino/static/css/main.4b70186f.css",
+    "main.js": "/reactkino/static/js/main.ee5fd5b3.js",
+    "index.html": "/reactkino/index.html",
+    "main.4b70186f.css.map": "/reactkino/static/css/main.4b70186f.css.map",
+    "main.ee5fd5b3.js.map": "/reactkino/static/js/main.ee5fd5b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b70186f.css",
+    "static/js/main.ee5fd5b3.js"
+  ]
+}
